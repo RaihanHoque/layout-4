@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: blue;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+header h1{
+    padding-top: 30px;
+}
+nav{
+    background-color: pink;
+    height: 150px;
+    color: white;
+    text-align: center;
+}
+nav h1{
+    padding-top: 40px;
+}
+h2{
+    background-color: yellow;
+    height: 100px;
+    color: teal;
+    text-align: center;
+}
+
+.content{
+    overflow: hidden;
+}
+.left{
+    background-color: tomato;
+    height: 500px;
+    width: 20%;
+    float: left;
+    color: white;
+    text-align: center;
+
+}
+.center{
+    background-color: salmon;
+    height: 500px;
+    width: 60%;
+    float: left;
+
+}
+.right{
+    background-color: green;
+    height: 500px;
+    width: 20%;
+    float: left;
+    color: white;
+    text-align: center;
+}
+.error{
+    background-color: blue;
+    height: 30%;
+
+}
+content{
+    background-color: darkgrey;
+    height: 70%;
+
+}
+footer{
+    background-color:firebrick;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+h3{
+    background-color: lightsalmon;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
